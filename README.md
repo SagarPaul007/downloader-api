@@ -22,7 +22,7 @@ Server will start listening on port 5000 ... Inside index.js file you can change
 Endpoint:-
 
 ```
-http://localhost:3005/search?name={movie_name}
+http://localhost:5000/search?name={movie_name}
 ```
 
 You will receive an array of objects. Each object contains title, link, size, seeders and peers of that movie.
